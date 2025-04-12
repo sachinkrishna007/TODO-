@@ -1,4 +1,4 @@
-import Booking from "../models/BookingModel.js";
+
 import TODO from "../models/todoModel.js";
 
 // Create a new todo
