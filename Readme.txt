@@ -5,7 +5,7 @@ Clone the project
 
 git clone URL
 
-
+  
 For Running Backend 
 cd .\Backend\ 
 npm run server
